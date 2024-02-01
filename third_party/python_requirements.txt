@@ -482,7 +482,7 @@ packaging==23.1 \
     --hash=sha256:994793af429502c4ea2ebf6bf664629d07c1a9fe974af92966e4b8d2df7edc61 \
     --hash=sha256:a392980d2b6cffa644431898be54b0045151319d1e7ec34f0cfed48767dd334f
     # via tensorflow-cpu
-pillow==9.5.0 \
+pillow==10.2.0 \
     --hash=sha256:07999f5834bdc404c442146942a2ecadd1cb6292f5229f4ed3b31e0a108746b1 \
     --hash=sha256:0852ddb76d85f127c135b6dd1f0bb88dbb9ee990d2cd9aa9e28526c93e794fba \
     --hash=sha256:1781a624c229cb35a2ac31cc4a77e28cafc8900733a864870c49bfeedacd106a \
